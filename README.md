@@ -1,4 +1,3 @@
-````md
 # ⚡ EZOSINT ⚡
 ### *Open Source Intelligence Redefined*
 
