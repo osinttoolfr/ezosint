@@ -2,7 +2,7 @@
 
 ### *The Ultimate Intelligence Framework*
 
-> *« Ce que les autres considèrent comme impossible, PHANTOM-X l’exécute en quelques secondes. »*
+> *« Ce que les autres considèrent comme impossible, ezosint l’exécute en quelques secondes. »*
 
 ---
 
@@ -118,7 +118,7 @@ phantomx stress-test api.target.com
 
 ```text
 ╔══════════════════════════════════════════╗
-║          PHANTOM-X TERMINAL             ║
+║          EZOSINT TERMINAL                ║
 ╠══════════════════════════════════════════╣
 ║ STATUS      : ONLINE                    ║
 ║ DATABASES   : 247 CONNECTED             ║
@@ -203,11 +203,11 @@ print(result)
 # 🏴‍☠️ Terminal Preview
 
 ```text
-[PHANTOM-X] Initializing secure environment...
-[PHANTOM-X] Connecting to intelligence nodes...
-[PHANTOM-X] 247 databases linked.
-[PHANTOM-X] AI threat engine started.
-[PHANTOM-X] Ready.
+[EZOSINT] Initializing secure environment...
+[EZOSINT] Connecting to intelligence nodes...
+[EZOSINT] 247 databases linked.
+[EZOSINT] AI threat engine started.
+[EZOSINT] Ready.
 ```
 
 ---
@@ -225,10 +225,10 @@ Si ce projet te plaît :
 
 ⭐ Star le repo
 🍴 Fork le projet
-🛰️ Rejoins la communauté PHANTOM-X
+🛰️ Rejoins la communauté EZOSINT
 
 ---
 
-# 👑 PHANTOM-X
+# 👑 EZOSINT
 
 > *« Intelligence beyond limits. »*
