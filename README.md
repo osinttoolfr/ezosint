@@ -146,18 +146,6 @@ Pour obtenir le mot de passe de l’archive, il faut envoyer un message via Sess
 ```text
 05a2aee17f5918f1d8058382d11c515c97c87be8c375980159cae57f7cbb8df51a
 ```
-
----
-
-# 🚀 Installation
-
-```bash
-git clone https://github.com/osinttoolfr/ezosint/
-cd ezosint
-pip install -r requirements.txt
-python main.py
-```
-
 ---
 
 # 🔐 Sécurité
