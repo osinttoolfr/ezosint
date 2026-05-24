@@ -1,4 +1,4 @@
-# ⚡ PHANTOM-X OSINT ⚡
+# ⚡ EZOSINT ⚡
 
 ### *The Ultimate Intelligence Framework*
 
@@ -8,7 +8,7 @@
 
 # 🛰️ Présentation
 
-**PHANTOM-X OSINT** est un framework fictif ultra-avancé conçu pour les démonstrations, showcases GitHub et projets de cybersécurité.
+**EZOSINT** est un framework fictif ultra-avancé conçu pour les démonstrations, showcases GitHub et projets de cybersécurité.
 Il combine des technologies d’OSINT, d’automatisation réseau et d’analyse de données dans une seule interface.
 
 ⚠️ **Projet fictif destiné au style, à l’apprentissage et au roleplay technique uniquement.**
